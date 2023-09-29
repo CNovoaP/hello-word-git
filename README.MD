@@ -35,3 +35,23 @@ Underline
 
 ## Imagenes
 ![Logo Github](https://allvectorlogo.com/img/2021/12/github-logo-vector.png)
+
+## Code Snippets
+``` JSON
+{
+    "args": {},
+    "headers": {
+        "x-forwarded-proto": "https",
+        "x-forwarded-port": "443",
+        "host": "postman-echo.com",
+        "x-amzn-trace-id": "Root=1-65173495-6499ff9f12a2bad47822e552",
+        "nombre": "CNovoa",
+        "user-agent": "PostmanRuntime/7.33.0",
+        "accept": "*/*",
+        "cache-control": "no-cache",
+        "postman-token": "d696374c-857b-45cc-a93a-cfd0292b782c",
+        "accept-encoding": "gzip, deflate, br"
+    },
+    "url": "https://postman-echo.com/get"
+}
+```
