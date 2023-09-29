@@ -9,3 +9,12 @@ Underline 1
 ---------
 Underline 
 =========
+
+- letra *italica* de la primera forma
+- letra _italica_ de la primera forma
+- formato **bold o strong**.
+- formato __bold o strong__.
+- formato ~~ tachado ~~ .
+- fromato *italica* formato **bold**
+
+
