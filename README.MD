@@ -61,3 +61,9 @@ Underline
 |Cristian|Novoa|15144875|
 |Cony|Novoa|22489206|
 |Julieta|Novoa|24659250|
+
+## Citas
+esto es un texto referente a una cita:
+> Esto es una Cita
+
+salto de linia cierra lal cita
