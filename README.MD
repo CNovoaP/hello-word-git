@@ -67,3 +67,19 @@ esto es un texto referente a una cita:
 > Esto es una Cita
 
 salto de linia cierra lal cita
+
+## Lineas divisoras 
+
+Esto es una texto dividido por giones medios 
+
+---
+
+Otro texto dividido por astericos
+
+***
+
+otro tecto dividido por giones bajos
+
+___ 
+
+
